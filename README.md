@@ -1,4 +1,4 @@
-# Real-Estate-Mobile (Century Homes)
+# Real-Estate-Mobile App
 
 Mobile application allowing users to search for properties and agents across the United States. View property Zestimates and get directions to properties. Contact agents through WhatsApp, text or phone call and calculate mortgage payments. Integrated with Zillow and Uber.
 
